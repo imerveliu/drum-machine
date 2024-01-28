@@ -42,11 +42,11 @@ const drumPads = [
     text: "D",
     src: "https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3",
   },
-  // {
-  //   keyCode: 90,
-  //   text: "Z",
-  //   src: "https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3",
-  // },
+  {
+    keyCode: 90,
+    text: "Z",
+    src: "https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3",
+  },
   {
     keyCode: 88,
     text: "X",
